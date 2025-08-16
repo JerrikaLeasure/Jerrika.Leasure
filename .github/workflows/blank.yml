@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+</head>
+
+
+<body>
+
+<body style="background-color: lightblue;">
+
+<center>
+<button onclick="document.location='Home.html'">Home Page</button>
+<button onclick="document.location='Cover.html'">Cover Letter</button>
+<button onclick="document.location='Resume.html'">My Resume</button>
+<button onclick="document.location='Hobby.html'">My Hobbies</button>
+<button onclick="document.location='Contact.html'">Contact Me</button>
+</center>
+<hr>
+
+<center>
+<h1>Jerrika Leasure</h1>
+<h2>Wheelersburg, Ohio, 45694</h2>
+<h3>(740) 835-9994 | jerrika.elese@gmail.com</h3>
+</center>
+
+<hr>
+
+<h1>Career Objectives</h1>
+<p>I am seeking a career with a company.</p>
+<ul>
+<li>A career where I can thrive within a company.</li>
+<li>A career where I can use my skills to be a successful employee.</li>
+<li>A career that I enjoy that also allows me to have time with my family.</li>
+</ul>
+
+<hr>
+
+<img src="JerrikaLeasure.JPG" width="300"
+
+<hr>
+<center>
+<button onclick="document.location='Home.html'">Home Page</button>
+<button onclick="document.location='Cover.html'">Cover Letter</button>
+<button onclick="document.location='Resume.html'">My Resume</button>
+<button onclick="document.location='Hobby.html'">My Hobbies</button>
+<button onclick="document.location='Contact.html'">Contact Me</button>
+</center>
+
+</body>
+</html>
